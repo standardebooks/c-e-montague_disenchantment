@@ -61,11 +61,12 @@ section[epub|type~="dedication"] > *{
 /* End centered dedications */
 
 /* Custom dedication */
-section[epub|type~="dedication"] b{
+section[epub|type~="dedication"] p:first-of-type{
+	margin-bottom: 1em;
 	text-transform: uppercase;
 }
 
-section[epub|type~="dedication"] b:first-of-type{
+section[epub|type~="dedication"] p > i{
 	font-style: italic;
 	text-transform: none;
 }
