@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-2.xhtml">
-		<ignore>
-			<code>t-029</code>
-			<reason>X.Y.Z is a concept, related to A.B.C.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
