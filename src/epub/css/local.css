@@ -72,15 +72,15 @@ section[epub|type~="dedication"] > *{
 
 /* Custom dedication */
 section[epub|type~="dedication"] p:first-of-type{
+	font-variant: small-caps;
 	margin-bottom: 1em;
-	text-transform: uppercase;
 }
 
 section[epub|type~="dedication"] p > i{
 	font-style: italic;
-	text-transform: none;
+	font-variant: normal;
 }
 
 section[epub|type~="dedication"] p{
-	text-indent: initial;
+	text-indent: 0;
 }
