@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60332</dc:source>
 		<dc:source>https://archive.org/details/disenchantment00montiala</dc:source>
-		<meta property="se:word-count">61188</meta>
+		<meta property="se:word-count">60785</meta>
 		<meta property="se:reading-ease.flesch">63.22</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/c-e-montague_disenchantment</meta>
 		<dc:creator id="author">C. E. Montague</dc:creator>
