@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85148236</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>A World War I veteran analyzes how the war affected the collective British psyche.</dc:abstract>
+		<meta property="schema:abstract">A World War I veteran analyzes how the war affected the collective British psyche.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/c-e-montague"&gt;C. E. Montague&lt;/a&gt; was 47 years old when the First World War began. Being well over the age limit for volunteers, he nonetheless dyed his white hair black and was accepted to the army in 1914. Written in 1922, &lt;i&gt;Disenchantment&lt;/i&gt; is his attempt to analyze in detail the effect of the war on the British psyche.&lt;/p&gt;
 			&lt;p&gt;He traces the evolution of the soldier through the course of the war, beginning with arrogant and incompetent officers having free reign to lead recruits in pointless, outdated training routines that left them totally unprepared for modern warfare. From the officers he moves to the bloodthirsty press that had abandoned its commitment to truth and discovery, and religious officials for whom war was suddenly completely sanctioned by specific passages in the Old Testament. At the conclusion of the war the desire for revenge, especially among non-combatants, was a predictable effect of the years of hypocrisy and lying. He recognizes that even before the war certain vices were tolerated, if in moderation; but the war shattered all these boundaries, leaving a hollowed-out society struggling to find purpose.&lt;/p&gt;
